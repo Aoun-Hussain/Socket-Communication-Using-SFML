@@ -1,17 +1,4 @@
 /*
-Author: Aoun Hussain
-Class: ECE 6122-A
-Last Date Modified: Sat, Nov 6, 2021
-Description: This is the cpp server source file for the solution of problem lab 3.
-             According to Professor Jeff Hurley's instruction, assuming a
-             maximum message length of 1000 bytes. It can handle unlimited clients.
-             Logs on the connects, disconnects, and client messages in the server.log
-             file created in the same directory. Only listens to the mentioned port
-             number in the arguments. Press the terminate button to stop the program.
-
-*/
-
-/*
  References:
 
  https://www.sfml-dev.org/documentation/2.0/classsf_1_1TcpSocket.php#a7904ca6ab9e018021e305a3aeb7a1b9a
